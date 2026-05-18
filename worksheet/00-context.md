@@ -23,15 +23,16 @@ Việc của nhóm hôm nay đúng là việc một PM/PO AI làm ngoài doanh n
 
 ## 2. Track của nhóm (điền sau khi nhận track card)
 
-- **Track số / tên**: [...]
+- **Track số / tên**: 02 / Interactive LMS Tutor
 - **Big Ask — chép nguyên văn câu yêu cầu trong track card**:
 
-```text
-[...]
+```Text
+Biến tài liệu LMS thành tutor tương tác, hỏi-đáp có nguồn, mini practice. 
+VD: Học viên hỏi "Pilot Plan khác project plan thế nào? - Tutor trả lời dựa trên handbook.
 ```
 
-- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): [...]
-- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. [...]  2. [...]
+- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): học viên
+- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. Mini practice 
 
 ---
 
@@ -50,7 +51,7 @@ Việc của nhóm hôm nay đúng là việc một PM/PO AI làm ngoài doanh n
 ## 4. Ghi chú thêm (tùy nhóm)
 
 [Hạn chót, quy mô data giả định nhóm dùng, ví dụ câu hỏi thật, bất kỳ thứ gì giúp AI hiểu context.]
-
+Người dùng là học viên khóa học AI thực chiến A20k, AI lấy nguồn tài liệu được giảng viên upload trên LMS (Handbook, Tài liệu tham khảo, Slide bài giảng). Học viên tương tác bằng chatbox hỏi-đáp có dẫn nguồn chính xác đến nguồn tài liệu thật.
 ---
 
 ## Cách dùng

@@ -1,3 +1,15 @@
+
+# Day 28 — Nhóm [MãNhóm]
+
+## Thành viên
+- [Hứa Quang Linh] · [Dương Khoa Điềm] 
+- Track: [số/tên track được giao]
+
+## Bản nộp
+- 🎯 [Problem Framing](./worksheet/01-frame/3-FINAL-problem-framing.md)
+- 🎯 [Solution + bản vẽ](./worksheet/02-solution/2-FINAL-solution.md)
+- 🎯 [5-slide Pitch + AI Support Log](./worksheet/03-pilot-plan/2-FINAL-pitch.md)
+
 > **Repo:** https://github.com/VinUni-AI20k/Day28-Track01-AI-Pilot-Plan
 
 # Day 28 — AI20k Learning OS: từ một bài toán mơ hồ → một AI Pilot Plan đủ để quyết

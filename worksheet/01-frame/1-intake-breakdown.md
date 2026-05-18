@@ -67,7 +67,7 @@ Cần ít nhất **4 use case thật sự độc lập** (làm được mà khô
 
 - Use case **#1 (Q&A có nguồn)** là nền tảng — #4, #5 đều phụ thuộc vào nó. Nếu chọn Quick Win thì #1 là ứng viên rõ nhất: làm được độc lập, demo được ngay, giải quyết đúng pain point thật.
 - Use case **#6 (Feedback bài nộp)** nghe hấp dẫn nhưng rủi ro cao nhất: cần human calibrate rubric trước, dễ sai → vi phạm ràng buộc "Human review" của track.
-- Use case **#4 (Mini quiz)** là Red Flag #1 trong track card — không nên chọn làm Quick Win vì phụ thuộc #1 và độ phức tạp tạo câu hỏi chất lượng cao.
+- Use case **#4 (Mini quiz)** liên quan đến Red Flag thứ 2 của track card (ranh giới “gia sư” vs “máy sinh đáp án”) — không nên chọn làm Quick Win vì phụ thuộc #1 và dễ làm học viên hỏi bot thay vì đọc tài liệu.
 - 5/7 use case độc lập hoàn toàn → đủ điều kiện (yêu cầu ≥4).
 
 ## Câu hỏi mở (mang sang bước chọn Quick Win)

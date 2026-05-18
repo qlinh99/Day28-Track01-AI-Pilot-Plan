@@ -23,16 +23,17 @@ Việc của nhóm hôm nay đúng là việc một PM/PO AI làm ngoài doanh n
 
 ## 2. Track của nhóm (điền sau khi nhận track card)
 
-- **Track số / tên**: 02 / Interactive LMS Tutor
+- **Track số / tên**: Track 2 — Gia sư LMS tương tác / Interactive LMS Tutor
 - **Big Ask — chép nguyên văn câu yêu cầu trong track card**:
 
 ```Text
-Biến tài liệu LMS thành tutor tương tác, hỏi-đáp có nguồn, mini practice. 
-VD: Học viên hỏi "Pilot Plan khác project plan thế nào? - Tutor trả lời dựa trên handbook.
+Biến LMS thành gia sư tương tác — học viên đọc bài, hỏi lại, làm mini practice, nhận giải thích theo level, có dẫn nguồn từ tài liệu khóa học.
 ```
 
-- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): học viên
-- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. Mini practice 
+- **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): Học viên tự học trên LMS, coach, instructor.
+- **2 Red Flag đáng lo nhất (chép từ track card)**:
+  1. Bịa nội dung khóa học / trả lời nghe hay nhưng không nguồn.
+  2. Không rõ ranh giới "gia sư" vs "máy sinh đáp án" — làm học viên hỏi bot thay vì đọc tài liệu.
 
 ---
 
@@ -50,8 +51,8 @@ VD: Học viên hỏi "Pilot Plan khác project plan thế nào? - Tutor trả l
 
 ## 4. Ghi chú thêm (tùy nhóm)
 
-[Hạn chót, quy mô data giả định nhóm dùng, ví dụ câu hỏi thật, bất kỳ thứ gì giúp AI hiểu context.]
-Người dùng là học viên khóa học AI thực chiến A20k, AI lấy nguồn tài liệu được giảng viên upload trên LMS (Handbook, Tài liệu tham khảo, Slide bài giảng). Học viên tương tác bằng chatbox hỏi-đáp có dẫn nguồn chính xác đến nguồn tài liệu thật.
+Nhóm chọn Quick Win hẹp: Q&A có dẫn nguồn từ Handbook/Slide D28. Mini practice, Socratic tutor, dashboard instructor để phase sau.
+Người dùng là học viên khóa học AI thực chiến AI20k, AI lấy nguồn tài liệu được giảng viên upload trên LMS (Handbook, Tài liệu tham khảo, Slide bài giảng). Học viên tương tác bằng chatbox hỏi-đáp có dẫn nguồn chính xác đến nguồn tài liệu thật.
 ---
 
 ## Cách dùng

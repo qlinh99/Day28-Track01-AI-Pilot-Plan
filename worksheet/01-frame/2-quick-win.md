@@ -92,7 +92,7 @@ Không nên vì: Feasibility thấp hơn #3 một chút — cần index Handbook
   - **Học viên track Product**: đang làm worksheet ngay lúc này, cần tra Handbook nhanh mà không muốn rời LMS. Đây là người dùng đầu tiên thật sự, ủng hộ ngay nếu demo trúng pain.
 
 - **Nhóm KHÔNG chọn gì + vì sao**:
-  1. **#4 Mini quiz** — Red Flag track card, phụ thuộc #1, tạo câu hỏi sai → confuse học viên. Làm sau khi #1 ổn định.
+  1. **#4 Mini quiz** — liên quan đến Red Flag #2 (ranh giới “gia sư” vs “máy sinh đáp án”), phụ thuộc #1, tạo câu hỏi sai → confuse học viên. Làm sau khi #1 ổn định.
   2. **#6 Feedback bài nộp** — Rủi ro nhất: cần human calibrate rubric, output sai ảnh hưởng trực tiếp đến đánh giá học viên, vi phạm ràng buộc "Formative ≠ summative".
   3. **#3 Glossary** — Demo được ngay nhưng scope quá hẹp, không đủ để xin pilot riêng; sẽ tích hợp vào #1 như một quick lookup mode.
 
@@ -102,7 +102,7 @@ Không nên vì: Feasibility thấp hơn #3 một chút — cần index Handbook
 
 - Điểm số cao nhất (#3 Glossary) và lựa chọn thực tế (#1 Q&A) không trùng nhau — đúng như cảnh báo của template: *điểm chỉ là gợi ý, không phải đáp án*. Impact và "ai ủng hộ" mới là yếu tố quyết định.
 - #1 và #3 thực ra là 1 hệ thống, chỉ khác scope data đầu vào. Chọn #1 = chọn đúng, bao luôn #3.
-- #4 (Mini quiz) bị loại hoàn toàn — đây là Red Flag của track nhưng cũng là thứ nhóm dễ bị cám dỗ nhất khi "brainstorm sáng tạo".
+- #4 (Mini quiz) bị loại khỏi Quick Win — liên quan đến Red Flag #2 của track (ranh giới gia sư vs máy sinh đáp án), nhưng cũng là thứ nhóm dễ bị cám dỗ nhất khi "brainstorm sáng tạo".
 
 ## Câu hỏi mở (mang sang Problem Framing)
 

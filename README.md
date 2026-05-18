@@ -1,9 +1,9 @@
 
-# Day 28 — Nhóm [MãNhóm]
+# Day 28 — Nhóm [466]
 
 ## Thành viên
-- [Hứa Quang Linh] · [Dương Khoa Điềm] 
-- Track: [số/tên track được giao]
+- Hứa Quang Linh · Dương Khoa Điềm
+- Track: Track 2 — Gia sư LMS tương tác / Interactive LMS Tutor
 
 ## Bản nộp
 - 🎯 [Problem Framing](./worksheet/01-frame/3-FINAL-problem-framing.md)

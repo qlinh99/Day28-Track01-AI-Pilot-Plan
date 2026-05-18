@@ -6,13 +6,12 @@ format: Nhóm 3
 
 # Group members
 
-- **Tên nhóm / mã nhóm**: [...]
-- **Track được giao**: [...]
-- **Repo GitHub (public)**: [...]
+- **Tên nhóm / mã nhóm**: [466]
+- **Track được giao**: Track 2 — Gia sư LMS tương tác / Interactive LMS Tutor
 
-| # | Họ tên | Vai chính trong lab |
-|---|---|---|
-| 1 | Hứa Quang Linh | Giữ Problem Framing (01-frame) + dựng AI Pilot Plan |
-| 2 | Dương Khoa Điềm | Lo Solution + bản vẽ trực quan (02-solution) + pitch (03-pilot-plan) |
+| # | Họ tên | MSSV | Vai chính trong lab |
+|---|---|---|---|
+| 1 | Hứa Quang Linh | 2A202600466 | Giữ Problem Framing (01-frame) + dựng AI Pilot Plan |
+| 2 | Dương Khoa Điềm | 2A202600366 | Lo Solution + bản vẽ trực quan (02-solution) + pitch (03-pilot-plan) |
 
 > Vai chính = người chịu trách nhiệm chốt phần đó, không phải người duy nhất làm. Cả nhóm vẫn cùng bàn mọi bước. Khi pitch, phân ai nói slide nào ghi ở `03-pilot-plan/2-FINAL-pitch.md`.

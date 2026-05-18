@@ -88,7 +88,7 @@ Câu hỏi phụ (tự trả lời):
 | Cảnh báo | Citation accuracy 65–80% sau 50 câu đầu | Sửa prompt/retrieval pipeline; chưa mở sang Phase 2 | Nhóm + Coach |
 | Nghiêm trọng | Citation accuracy < 65% **HOẶC** AI trả lời sai gây hiểu nhầm ≥3 học viên | Dừng pilot ngay; không mở rộng | **Instructor** |
 
-   *Red Flag check*: Exit criteria nghiêm trọng chặn được cả 2 Red Flag (Citation sai · Mini practice bị thêm vào scope sẽ bị loại khi mức cảnh báo trigger scope creep).
+   *Red Flag check*: Exit criteria nghiêm trọng chặn được cả 2 Red Flag: (1) BỊ nội dung/không có nguồn → bị chặn qua Citation Check + ngưỡng 80%; (2) Không rõ ranh giới gia sư vs máy sinh đáp án → fallback “không biết” + Formative only + scope chỉ Q&A không mở mini practice.
 
 10. **Adoption**:
     - Ai dùng đầu tiên: 15–20 học viên track Product, tự nguyện, trong buổi lab Day 28+
